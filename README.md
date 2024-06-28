@@ -16,6 +16,6 @@ https://github.com/shi-works/tile-gsi-dem
 (tileSize: 256px zoomLevel: 0-14)
 
 ## 上記のTerrain-RGB形式の標高タイルを用いたデモサイト
-https://shi-works.github.io/gsi-dem-10b-terrain-rgb/
+https://shiwaku.github.io/gsi-dem-10b-terrain-rgb/
 
 ![image](https://github.com/shi-works/gsi-dem-10b-terrain-rgb/assets/71203808/f3d1c518-6f7b-4fcf-8760-f8d26f15070a)
