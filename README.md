@@ -9,7 +9,7 @@
 https://maps.gsi.go.jp/development/ichiran.html#dem
 
 ## 標高タイルの変換スクリプト
-https://github.com/shi-works/tile-gsi-dem
+https://github.com/shiwaku/tile-gsi-dem
 
 ## Terrain-RGB形式の標高タイル
 `https://xs489works.xsrv.jp/raster-tiles/gsi/gsi-dem-terrain-rgb/{z}/{x}/{y}.png`  
